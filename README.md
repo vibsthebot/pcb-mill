@@ -4,6 +4,8 @@
 
 Have you ever wanted to make a corexy cnc mill? No? This is an experiment to see if making a corexy mill will work for manufacturing pcbs. It is designed for 50x70 mm copper clad, and can also be potentially converted into a 3D printer as it has a large z-axis.
 
+[Onshape](https://cad.onshape.com/documents/5cd80cef7b051f6dbadd9a3b/w/b4afdc35a2d58e3f2a333c6d/e/705bca6182fdf11d09d20174?renderMode=0&uiState=687c1c04c8ac4b246a35943b)
+
 ## BOM
 | Item                                               | Quantity | Price   | Total   | Link                                                                 |
 |----------------------------------------------------|----------|---------|---------|----------------------------------------------------------------------|
