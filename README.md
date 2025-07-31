@@ -1,6 +1,6 @@
 # PCB Mill
 
-<img src = "https://hc-cdn.hel1.your-objectstorage.com/s/v3/6bcbdd5e5d747e1be142ba3283eb916c71123cc5_image.png">
+<img src = "[https://hc-cdn.hel1.your-objectstorage.com/s/v3/6bcbdd5e5d747e1be142ba3283eb916c71123cc5_image.png](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3c8ae972095b8316139f7c8e3d17505d4f1dfe39_image.png)">
 
 Have you ever wanted to make a corexy cnc mill? No? This is an experiment to see if making a corexy mill will work for manufacturing pcbs. It is designed for 50x70 mm copper clad, and can also be potentially converted into a 3D printer as it has a large z-axis.
 
