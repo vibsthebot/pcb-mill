@@ -1,7 +1,6 @@
 # PCB Mill
 
-<img src = "[https://hc-cdn.hel1.your-objectstorage.com/s/v3/6bcbdd5e5d747e1be142ba3283eb916c71123cc5_image.png](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3c8ae972095b8316139f7c8e3d17505d4f1dfe39_image.png)">
-
+<img src = "https://hc-cdn.hel1.your-objectstorage.com/s/v3/3c8ae972095b8316139f7c8e3d17505d4f1dfe39_image.png">
 Have you ever wanted to make a corexy cnc mill? No? This is an experiment to see if making a corexy mill will work for manufacturing pcbs. It is designed for 50x70 mm copper clad, and can also be potentially converted into a 3D printer as it has a large z-axis.
 
 [Onshape](https://cad.onshape.com/documents/5cd80cef7b051f6dbadd9a3b/w/b4afdc35a2d58e3f2a333c6d/e/705bca6182fdf11d09d20174?renderMode=0&uiState=687c1c04c8ac4b246a35943b)
@@ -21,4 +20,7 @@ Have you ever wanted to make a corexy cnc mill? No? This is an experiment to see
 | LM8UU linear bearing                               | 3        | $3.08   | $9.24   | [Aliexpress](https://www.aliexpress.us/item/3256806883965670.html)        |
 | CNC Controller                                     | 1        | $36.00  | $36.00  | [Aliexpress](https://www.aliexpress.us/item/3256807037541587.html)        |
 | A4988 Stepper Driver                               | 1        | $2.10   | $2.10   | [Aliexpress](https://www.aliexpress.us/item/3256805909921734.html)        |
-| **Total**                                          |          |         | **$365.54** |                                                                  |
+| GT2 6mm Belt (2m)                                  | 1        | $6.78   | $6.78   | [Aliexpress](https://www.aliexpress.us/item/3256806321466333.html) |
+| GT2 Pulleys                                        | 2        | $0.96   | $1.92   | [Aliexpress](https://www.aliexpress.us/item/2251832595367020.html) |
+| M5 Screw Kit                                       | 1        | $14.97  | $14.97  | [Aliexpress](https://www.aliexpress.us/item/3256806973435795.html) |
+| **Total**                                          |          |         | **$386.31** |                                                                  |
