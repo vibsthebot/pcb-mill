@@ -1,4 +1,4 @@
-Item,Quantity,Price,Total,
+Item,Quantity,Price,Total,Link
 150 mm x 4 extrusion,2,$16.98,$33.96,https://www.aliexpress.us/item/3256808699836480.html
 250 mm x 4 extrusion,2,$23.47,$46.94,https://www.aliexpress.us/item/3256808699836480.html
 MGN9 Rail 100mm + Block,3,$7.30,$21.90,https://www.aliexpress.us/item/2255800576028509.html
@@ -11,4 +11,7 @@ Nema 17 Stepper Motor with 100mm Lead Screw,2,$26.31,$52.62,https://www.aliexpre
 LM8UU linear bearing,3,$3.08,$9.24,https://www.aliexpress.us/item/3256806883965670.html
 CNC Controller,1,$36.00,$36.00,https://www.aliexpress.us/item/3256807037541587.html
 A4988 Stepper Driver,1,$2.10,$2.10,https://www.aliexpress.us/item/3256805909921734.html
-,,Total,$365.54,
+GT2 6mm Belt (2m),1,$6.78,$6.78,https://www.aliexpress.us/item/3256806321466333.html
+GT2 Pulleys,2,$0.96,$1.92,https://www.aliexpress.us/item/2251832595367020.html
+M5 Screw Kit,1,$14.97,$14.97,https://www.aliexpress.us/item/3256806973435795.html
+,,Total,$386.31,
