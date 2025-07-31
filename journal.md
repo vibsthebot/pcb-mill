@@ -5,7 +5,11 @@ description: "A desktop PCB mill designed for 50x70mm PCBs!"
 created_at: "2025-06-16"
 ---
 
-# Total time: 12 hrs
+# Total time: 13 hrs
+
+## July 31 -  1 hr
+Added corner brackets to hold corners together and electronics mount, updated bom with psu and m5 screws. 
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/3a1c7f5ecb6e1e36495c240fa7add3fc18123830_image.png">
 
 ## July 19 - 3 hrs
 Finished BOM, added all screws, finished assembly of the z-axis.
